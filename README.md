@@ -1,2 +1,1 @@
-# Tabs_by_Breazzz
-My custom js tabs (in master)
+This is the simplest repository, so no explanation is needed for it :)
